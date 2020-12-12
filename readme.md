@@ -1,3 +1,5 @@
+**not recommended for use:** it's unlikely that any of this still works, since i haven't had a need to maintain it since the original client project that motivated it.
+
 ## nix
 
 This all probably only works on linux:
